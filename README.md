@@ -6,19 +6,19 @@ The python files and their functions
 ```
 search.py        where all of your search algorithms will reside. 
 searchAgents.py  Where all of your search-based agents will reside. 
-pacman.py       	The main file that runs Pac-Man games.
-game.py      	   The logic behind how the Pac-Man world works.
+pacman.py        The main file that runs Pac-Man games.
+game.py          The logic behind how the Pac-Man world works.
 util.py          Useful data structures for implementing search algorithms. 
 ```
 
 Supporting files you can ignore:
 ```
 graphicsDisplay.py	Graphics for Pac-Man
-graphicsUtils.py	Support for Pac-Man graphics
-textDisplay.py	   ASCII graphics for Pac-Man
-ghostAgents.py	  Agents to control ghosts
-keyboardAgents.py	Keyboard interfaces to control Pac-Man
-layout.py Code for reading layout files and storing their contents
+graphicsUtils.py	  Support for Pac-Man graphics
+textDisplay.py	    ASCII graphics for Pac-Man
+ghostAgents.py	    Agents to control ghosts
+keyboardAgents.py	  Keyboard interfaces to control Pac-Man
+layout.py           Code for reading layout files and storing their contents
 ```
 
 We have implemented search based algorithms: Depth First Search(DFS), Breadth first Search (BFS), A* graph search and search based agents: CornersProblem search and heuristic for the CornersProblem.
