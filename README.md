@@ -2,14 +2,14 @@
 
 The Pac-Man agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. The general search algorithms(DFS, BFS, aStar) are built and applied to Pac-Man scenarios.
 
-The python files and their functions
-search.py	   Where all of your search algorithms will reside.
-searchAgents.py  Where all of your search-based agents will reside.
+<b>The python files and their functions</b>
+<i>search.py	   Where all of your search algorithms will reside. <br>
+searchAgents.py  Where all of your search-based agents will reside. <br>
 pacman.py	The main file that runs Pac-Man games.
  This file describes a Pac-Man GameState type, which you use in this project.
 game.py	   The logic behind how the Pac-Man world works.
  This file describes several supporting types like AgentState, Agent, Direction, and Grid.
-util.py	    Useful data structures for implementing search algorithms.
+util.py	    Useful data structures for implementing search algorithms. </i>
 
 Supporting files you can ignore:
 
